@@ -13,7 +13,7 @@ function App() {
       <Router>
             <Header />
         <Routes>
-          <Route exact path="/" element={<Hero />} />
+          <Route exact path="/" element={<Header />} />
           <Route exact path="/channels" element={<Home />} />
           <Route exact path="/channels/:id" element={<Home />} />
         </Routes>
