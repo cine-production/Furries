@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Furrys/static/css/main.0a2aed40.css",
-    "main.js": "/Furrys/static/js/main.5a83c8c1.js",
+    "main.css": "/Furrys/static/css/main.befdd801.css",
+    "main.js": "/Furrys/static/js/main.57758112.js",
     "static/js/453.f169adb0.chunk.js": "/Furrys/static/js/453.f169adb0.chunk.js",
     "index.html": "/Furrys/index.html",
-    "main.0a2aed40.css.map": "/Furrys/static/css/main.0a2aed40.css.map",
-    "main.5a83c8c1.js.map": "/Furrys/static/js/main.5a83c8c1.js.map",
+    "main.befdd801.css.map": "/Furrys/static/css/main.befdd801.css.map",
+    "main.57758112.js.map": "/Furrys/static/js/main.57758112.js.map",
     "453.f169adb0.chunk.js.map": "/Furrys/static/js/453.f169adb0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a2aed40.css",
-    "static/js/main.5a83c8c1.js"
+    "static/css/main.befdd801.css",
+    "static/js/main.57758112.js"
   ]
 }
