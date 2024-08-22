@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Furries-Chat",
+  "name": "Un chat rien que pour les furries",
   "icons": [
     {
       "src": "favicon.ico",
