@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Furrys/static/css/main.445d7620.css",
-    "main.js": "/Furrys/static/js/main.611a221d.js",
-    "static/js/453.4803fe5a.chunk.js": "/Furrys/static/js/453.4803fe5a.chunk.js",
-    "index.html": "/Furrys/index.html",
-    "main.445d7620.css.map": "/Furrys/static/css/main.445d7620.css.map",
-    "main.611a221d.js.map": "/Furrys/static/js/main.611a221d.js.map",
-    "453.4803fe5a.chunk.js.map": "/Furrys/static/js/453.4803fe5a.chunk.js.map"
+    "main.css": "/Furries/static/css/main.445d7620.css",
+    "main.js": "/Furries/static/js/main.43950e93.js",
+    "static/js/453.4803fe5a.chunk.js": "/Furries/static/js/453.4803fe5a.chunk.js",
+    "index.html": "/Furries/index.html",
+    "main.445d7620.css.map": "/Furries/static/css/main.445d7620.css.map",
+    "main.43950e93.js.map": "/Furries/static/js/main.43950e93.js.map",
+    "453.4803fe5a.chunk.js.map": "/Furries/static/js/453.4803fe5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.445d7620.css",
-    "static/js/main.611a221d.js"
+    "static/js/main.43950e93.js"
   ]
 }
